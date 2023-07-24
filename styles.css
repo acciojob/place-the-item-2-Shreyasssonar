@@ -1,2 +1,26 @@
-
-/* Your CSS Code here. */
+.holder{
+	  display:flex;
+	  justify-content: center;
+	  flex-wrap: wrap;
+}
+.it3{
+	padding:10px;
+	background:green;
+	height:100px;
+	width:100px;
+	font-size:50px;
+}
+.it1{
+	padding:10px;
+	background:orange;
+	height:100px;
+	width:100px;
+	font-size:50px;
+}
+.it2{
+	padding:10px;
+	background:blue;
+	height:100px;
+	width:100px;
+	font-size:50px;
+}
